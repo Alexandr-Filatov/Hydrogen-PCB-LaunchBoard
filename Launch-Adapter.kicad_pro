@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 1.0
         }
       },
       "diff_pair_dimensions": [
@@ -459,6 +459,10 @@
     [
       "8ded4ace-7a7c-4cba-ad2c-06c1a78ed04c",
       "Driver_Connector"
+    ],
+    [
+      "7ed26b9a-ae35-4590-a040-063aa8adf3ad",
+      "Relay_Control"
     ]
   ],
   "text_variables": {}
