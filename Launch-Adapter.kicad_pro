@@ -384,7 +384,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Launch-Adapter.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -454,7 +454,7 @@
     ],
     [
       "9700aaad-e8e8-484b-ae67-8cfb79e9bec7",
-      "PWM_Level_Transformer"
+      "PWM_Diff"
     ],
     [
       "8ded4ace-7a7c-4cba-ad2c-06c1a78ed04c",
@@ -463,6 +463,10 @@
     [
       "7ed26b9a-ae35-4590-a040-063aa8adf3ad",
       "Relay_Control"
+    ],
+    [
+      "2221929e-266b-454a-92ae-00a784219d5f",
+      "Temperature"
     ]
   ],
   "text_variables": {}
