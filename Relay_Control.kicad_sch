@@ -738,7 +738,7 @@
     (uuid 33805502-1684-44c3-9dd5-d32c88a89b36)
     (property "Reference" "R41" (id 0) (at 151.384 86.106 90))
     (property "Value" "60" (id 1) (at 151.384 90.17 90))
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 151.384 88.138 0)
+    (property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" (id 2) (at 151.384 88.138 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 151.384 88.138 0)
